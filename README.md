@@ -6,7 +6,7 @@
 
 ```sh
 git clone git@github.com:strongloop/loopback-example-office-supplies.git
-cd loopback-example-office-supplies
+cd loopback-example-office-supplies/server
 npm install
 ```
 
